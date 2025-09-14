@@ -1,0 +1,51 @@
+
+/* layout utilities start */
+.d-flex{
+    display: flex;
+}
+.d-flex-col{
+    display: flex;
+    flex-direction: column;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.align-items-center{
+    align-items: center;
+}
+.center-div{
+    justify-content: center;
+    align-items: center;
+}
+/* layout utilities ends */
+
+/* text utilities start */
+.text-black{
+    color: #212121;
+;
+}
+.text-white{
+    color: #FFFBFE;
+}
+.text-muted{
+    color: #424242;
+}
+.text-pink{
+    color: #FB6B92;
+}
+.text-decoration-none{
+    text-decoration: none;
+}
+/* text utilities end */
+
+/* btn-utilities start */
+.btn{
+    background-color: #565254;
+    color: #FFFBFE;
+    text-decoration: none;
+    padding: 0.5rem;
+    border-radius: 8px;
+    text-align: center;
+    
+}
+/* btn-utilities start */
